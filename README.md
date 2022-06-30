@@ -22,3 +22,8 @@ This project is done by using Logistic Regression Machine learning model as this
 3. Numpy
 4. Matplotlib
 5. Seaborn
+
+
+![](Screenshot%20(208).png)
+![](Screenshot%20(205).png)
+![](Screenshot%20(209).png)
